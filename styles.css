@@ -1,0 +1,35 @@
+h1 {
+  color: hsl(39, 100%, 50%);
+  font-family: Courier New, sans-serif;
+  font-size: 48px;
+  text-align: center;
+}
+
+h2 {
+  color: hsl(39, 100%, 50%);
+  font-family: Courier New, sans-serif;
+  font-size: 24px;
+  text-align: left;
+}
+
+p, li {
+  font-family: Courier New, sans-serif;
+  font-size: 16px;
+}
+
+.link {
+  color: royalblue;
+  font-family: Courier New, sans-serif;
+  font-size: 24px;
+}
+.link-index {
+  list-style-type: none;
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 600px;
+}
